@@ -1,0 +1,162 @@
+/usr/lib/jvm/java-1.18.0-openjdk-amd64/bin/java -Xmx4096m -Xms4096m -javaagent:/home/blackbase/Application/Int/idea-IU-221.5080.210/lib/idea_rt.jar=38857:/home/blackbase/Application/Int/idea-IU-221.5080.210/bin -Dfile.encoding=UTF-8 -classpath /home/blackbase/Project/Self/Java/ProcessingWorker/target/classes org.App  org.filters.CSVtoHTMLTableRenderFilter org.models.CreditLimitDataModel /home/blackbase/Project/Self/Java/ProcessingWorker/src/main/resources/workbook.csv /home/blackbase/Project/Self/Java/ProcessingWorker/src/main/resources/workbook.html 2 2147483640 1932735283
+State >>> INIT
+State >>> OUTPUT_START
+State >>> TASK_START
+State >>> INJECT_INIT_FILTER
+State >>> INPUT_START
+State >>> MONITOR
+Storage Size: 94683 Buffer Position: 22779606 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 105738718 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 164295297 Channel Size: 0
+State >>> MONITOR
+Storage Size: 22 Buffer Position: 230441572 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 305591673 Channel Size: 0
+State >>> MONITOR
+Storage Size: 462 Buffer Position: 392218023 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 475585402 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 572316388 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 667468729 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 749838168 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 834965235 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 917889626 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 1000037502 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 1095654240 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 1185938400 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 1272301241 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 1359712472 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 1441844718 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 1530495620 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 1616182395 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 1695460619 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 1776219837 Channel Size: 0
+State >>> MONITOR
+Storage Size: 0 Buffer Position: 1859169302 Channel Size: 0
+State >>> MONITOR
+Storage Size: 488 Buffer Position: 1950783607 Channel Size: 0
+State >>> MONITOR
+Storage Size: 241789 Buffer Position: 2028713848 Channel Size: 2028713848
+State >>> MONITOR
+Storage Size: 6409176 Buffer Position: 203342138 Channel Size: 2028713848
+State >>> MONITOR
+Storage Size: 6089009 Buffer Position: 396884192 Channel Size: 2028713848
+State >>> MONITOR
+Storage Size: 5887278 Buffer Position: 636666005 Channel Size: 2028713848
+State >>> MONITOR
+Storage Size: 5583007 Buffer Position: 795087911 Channel Size: 2028713848
+State >>> MONITOR
+Storage Size: 5593465 Buffer Position: 1031437101 Channel Size: 2028713848
+State >>> MONITOR
+Storage Size: 5424228 Buffer Position: 1255775644 Channel Size: 2028713848
+State >>> MONITOR
+Storage Size: 5157950 Buffer Position: 1463567742 Channel Size: 2028713848
+State >>> MONITOR
+Storage Size: 5110130 Buffer Position: 1618754889 Channel Size: 2028713848
+State >>> MONITOR
+Storage Size: 5077594 Buffer Position: 1762973423 Channel Size: 2028713848
+State >>> MONITOR
+Storage Size: 5215890 Buffer Position: 1862871364 Channel Size: 2028713848
+State >>> MONITOR
+Storage Size: 6031703 Buffer Position: 1989634775 Channel Size: 4018348623
+State >>> MONITOR
+Storage Size: 7747520 Buffer Position: 236628445 Channel Size: 4018348623
+State >>> MONITOR
+Due To The Huge Increase On Input Element Another Task Added To Pool : 6
+Storage Size: 7932845 Buffer Position: 461699869 Channel Size: 4018348623
+State >>> MONITOR
+Storage Size: 7849996 Buffer Position: 673264567 Channel Size: 4018348623
+State >>> MONITOR
+Storage Size: 7954877 Buffer Position: 892573268 Channel Size: 4018348623
+State >>> MONITOR
+Storage Size: 7608160 Buffer Position: 1130703263 Channel Size: 4018348623
+State >>> MONITOR
+Storage Size: 7514829 Buffer Position: 1388187441 Channel Size: 4018348623
+State >>> MONITOR
+Storage Size: 7744070 Buffer Position: 1652636206 Channel Size: 4018348623
+State >>> MONITOR
+Storage Size: 7609966 Buffer Position: 1868665616 Channel Size: 4018348623
+State >>> MONITOR
+Storage Size: 8056740 Buffer Position: 2004831696 Channel Size: 6023180319
+State >>> MONITOR
+Storage Size: 9746078 Buffer Position: 259717208 Channel Size: 6023180319
+State >>> MONITOR
+Storage Size: 9590451 Buffer Position: 461404452 Channel Size: 6023180319
+State >>> MONITOR
+Storage Size: 10142017 Buffer Position: 706579032 Channel Size: 6023180319
+State >>> MONITOR
+Storage Size: 10185672 Buffer Position: 1027355474 Channel Size: 6023180319
+State >>> MONITOR
+Storage Size: 10067849 Buffer Position: 1346052852 Channel Size: 6023180319
+State >>> MONITOR
+Storage Size: 9861456 Buffer Position: 1645346078 Channel Size: 6023180319
+State >>> MONITOR
+Storage Size: 9982989 Buffer Position: 1918638651 Channel Size: 6023180319
+State >>> MONITOR
+Storage Size: 10352904 Buffer Position: 31999282 Channel Size: 8000403891
+State >>> MONITOR
+Storage Size: 10139763 Buffer Position: 337696457 Channel Size: 8000403891
+State >>> MONITOR
+Storage Size: 9693506 Buffer Position: 634459817 Channel Size: 8000403891
+State >>> MONITOR
+Storage Size: 9537937 Buffer Position: 900989790 Channel Size: 8000403891
+State >>> MONITOR
+Storage Size: 9555636 Buffer Position: 1205063389 Channel Size: 8000403891
+State >>> MONITOR
+Due To The Huge Increase On Input Element Another Task Added To Pool : 7
+Storage Size: 9317668 Buffer Position: 1490703727 Channel Size: 8000403891
+State >>> MONITOR
+Storage Size: 8879686 Buffer Position: 1800457836 Channel Size: 8000403891
+State >>> MONITOR
+Storage Size: 8879018 Buffer Position: 1968818374 Channel Size: 9969222265
+State >>> MONITOR
+Storage Size: 9646425 Buffer Position: 326747337 Channel Size: 9969222265
+State >>> MONITOR
+Storage Size: 9375565 Buffer Position: 636144219 Channel Size: 9969222265
+State >>> MONITOR
+Storage Size: 8740598 Buffer Position: 936398558 Channel Size: 9969222265
+State >>> MONITOR
+Storage Size: 8592022 Buffer Position: 1196586844 Channel Size: 9969222265
+State >>> MONITOR
+Storage Size: 8542000 Buffer Position: 1418483418 Channel Size: 9969222265
+State >>> MONITOR
+Storage Size: 8639703 Buffer Position: 1675034017 Channel Size: 9969222265
+State >>> MONITOR
+Storage Size: 8730166 Buffer Position: 1936373602 Channel Size: 9969222265
+State >>> MONITOR
+That took 239 seconds and generate 109078700 ID
+Storage Size: 7970138 Buffer Position: 1974456604 Channel Size: 11943678869
+State >>> INPUT_END
+State >>> QUEUE_EMPTY
+Task 6 Closed
+Task 5 Closed
+Task 7 Closed
+Task 0 Closed
+Task 4 Closed
+Task 3 Closed
+Task 1 Closed
+Task 2 Closed
+State >>> TASK_DESTROYED
+State >>> INJECT_END_FILTER
+State >>> OUTPUT_END
+State >>> DESTROY
+END Page Writing (Buffer Position: 0 Channel Size: 12885192228)
+
+Process finished with exit code 0
