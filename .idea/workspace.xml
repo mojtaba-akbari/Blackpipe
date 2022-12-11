@@ -8,10 +8,30 @@
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/last-test-result.log" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/HelperModels/ColumnStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ServiceModel/ElementHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/baseFilters/BaseFilterModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/baseFilters/BaseFilterModelAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/baseModels/BaseDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/baseModels/BaseDataModelAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/filters/CSVtoHTMLTableRenderFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/filters/PRNtoHTMLTableRenderFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/models/CreditLimitDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/services/FilterApplicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/services/InputIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/services/OutputIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/services/ProcessingTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/services/ProxyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +40,15 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,9 +69,28 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/blackbase/Downloads/BlackPipe-Concept.png",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ProccessingWorker" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="MAIN_CLASS_NAME" value="org.App" />
+      <module name="BlackPipe" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;&quot; &quot;org.filters.CSVtoHTMLTableRenderFilter&quot; &quot;org.models.CreditLimitDataModel&quot; &quot;$PROJECT_DIR$/src/main/resources/workbook.csv&quot; &quot;$PROJECT_DIR$/src/main/resources/workbook.html&quot; 2 2147483640 1932735283" />
+      <option name="VM_PARAMETERS" value="-Xmx4096m -Xms4096m" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +99,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669736478169</updated>
-      <workItem from="1669736479470" duration="7000" />
+      <workItem from="1669736479470" duration="61764000" />
+      <workItem from="1669878170392" duration="32661000" />
+      <workItem from="1669966719901" duration="27421000" />
+      <workItem from="1670012144312" duration="3856000" />
+      <workItem from="1670048212851" duration="17177000" />
+      <workItem from="1670068777941" duration="5409000" />
     </task>
     <servers />
   </component>
