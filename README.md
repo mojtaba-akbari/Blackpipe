@@ -72,7 +72,7 @@ For first time execute service with upper arg to learn :)
 
 At last:
 
-Thanks from Adevinta!
+Thanks!
 
 
 
